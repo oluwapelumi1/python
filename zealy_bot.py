@@ -9,9 +9,15 @@ import time                        # Sleep timer
 # ------------------------------- 
 # CONFIGURATION
 # -------------------------------
+<<<<<<< HEAD
 BOT_TOKEN = "8469480625:AAGjppHqNG7bD1lljcuFvOfLseqAX_rMvYw"
 CHAT_ID = "1938127032"
 ZEALY_URL = "https://zealy.io/cw/swisschainsa/questboard"
+=======
+BOT_TOKEN = "8469480625:AAGjppHqNG7bD1lljcuFvOfLseqAX_rMvYw"  # <-- Your Telegram bot token
+CHAT_ID = "1938127032"                                       # <-- Your Telegram chat ID
+ZEALY_URL = "https://zealy.io/cw/swisschainsa/questboard"       # <-- Zealy questboard URL
+>>>>>>> 5804167d0dd18d73acd326c2f6443aa499945b7e
 
 # Initialize bot
 bot = Bot(token=BOT_TOKEN)
