@@ -11,7 +11,7 @@ import time                   # To pause between checks
 # -------------------------------
 BOT_TOKEN = "8469480625:AAGjppHqNG7bD1lljcuFvOfLseqAX_rMvYw"  # <-- Your Telegram bot token
 CHAT_ID = "1938127032"                                       # <-- Your Telegram chat ID
-ZEALY_URL = "https://zealy.io/cw/inference/questboard"       # <-- Zealy questboard URL
+ZEALY_URL = "https://zealy.io/cw/swisschainsa/questboard"       # <-- Zealy questboard URL
 
 # Initialize the bot
 bot = Bot(token=BOT_TOKEN)
